@@ -1,0 +1,5 @@
+package com.generation.Junit3.model;
+
+public class ContatoModel {
+
+}
